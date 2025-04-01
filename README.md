@@ -39,14 +39,14 @@ https://www.olcf.ornl.gov/frontier/
 # Team
 
 - [Renan Souza](https://renansouza.org), Oak Ridge National Lab, Researcher and Lead developer
-- [Rafael Ferreira da Silva](https://rafaelsilva.com/), Oak Ridge National Lab, Group Leader
+- [Rafael Ferreira da Silva](https://rafaelsilva.com/), Oak Ridge National Lab, Senior Researcher, Group Leader
 - [Daniel Rosendo](https://www.ornl.gov/staff-profile/daniel-rosendo), Oak Ridge National Lab, Researcher, Developer
 - [Amal Gueroudji](https://www.anl.gov/profile/amal-gueroudji), Argonne National Lab, Researcher, Developer
 - [Seth Ockerman](https://ockermansethgvsu.github.io/), Argonne National Lab & University of Wisconsin-Madison, Researcher, Developer
 
 ### Collaborators
 
-Mark Coletti, Frederic Suter, Tayler Skluzacek, Ketan Maheshwari, Gavin Wiggins, Silvina Caino-Lores, Mallikarjun (Arjun) Shankar, Sarp Oral, Marta Mattoso, Alexandru Costan
+Matthieu Dorier, Mark Coletti, Frederic Suter, Tayler Skluzacek, Ketan Maheshwari, Gavin Wiggins, Silvina Caino-Lores, Mallikarjun (Arjun) Shankar, Sarp Oral, Marta Mattoso, Alexandru Costan
 
 
 
